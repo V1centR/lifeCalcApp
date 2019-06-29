@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">LifeCalc</string>
+    <string name="tab_text_1">Home</string>
+    <string name="tab_text_2">Dashboard</string>
+    <string name="tab_text_3">Relatórios</string>
+</resources>
